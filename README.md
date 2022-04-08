@@ -9,8 +9,11 @@ It follows the official documentation of RAR5 file format found at https://www.r
 * Decompression
 * Decryption
 
-##How to use
+## Usage
 ```dart
 var rarArchive = RAR5(path);
 rarArchive.showFiles();
 ```
+
+## License
+[License](LICENSE)
